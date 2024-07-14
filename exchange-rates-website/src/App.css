@@ -42,8 +42,6 @@
 }
 
 
-/* My code */
-/* סגנונות לטבלה */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -52,25 +50,25 @@ table {
   text-align: left;
 }
 
-/* מסגרת טבלה */
+/* table frame */
 th, td {
   padding: 12px;
   border: 1px solid #2bc683;
 }
 
-/* title of the table */
+/* titles of the table */
 th {
   background-color: #4ae2b2;
   color: black;
 }
 
-/* כנמצאים על השורה בטבלה היא מחליפה צבע */
+/* when you are on the row in the table, it changes color */
 tr:hover {
   background-color: #f7fbfc;
 }
 
 
-/* טבלה נפתחת של מטבעות */
+/* dropdown table of currencies */
 select {
   font-size: 1rem;
   padding: 0.7rem;
