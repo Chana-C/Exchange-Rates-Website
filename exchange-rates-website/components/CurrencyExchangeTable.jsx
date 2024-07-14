@@ -11,7 +11,8 @@ const CurrencyExchangeTable = () => {
     const fetchCurrencies = async () => {
       try {
         const data = await getCurrencies();
-        console.log('Fetched currencies:', data); // לוג כדי לראות את הנתונים המתקבלים
+        console.log('Fetched currencies:', data); // Log to see the received data
+ 
         setCurrencies(data);
         // setBaseCurrency(data[0]); // Set the initial base currency
       } catch (error) {
@@ -27,7 +28,7 @@ const CurrencyExchangeTable = () => {
       const fetchRates = async () => {
         try {
           const data = await getExchangeRates(baseCurrency);
-          console.log('Fetched exchange rates:', data); // לוג כדי לראות את הנתונים המתקבלים
+          console.log('Fetched exchange rates:', data); // Log to see the received data
           setExchangeRates(data);
         } catch (error) {
           console.error('Error fetching exchange rates:', error);
