@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/chana/algo/exchange-rates-website-API/exchange-rates-website-API.csproj": {}
+    "/home/chana/Exchange-Rates-Website/exchange-rates-website-server/exchange-rates-website-API.csproj": {}
   },
   "projects": {
-    "/home/chana/algo/exchange-rates-website-API/exchange-rates-website-API.csproj": {
+    "/home/chana/Exchange-Rates-Website/exchange-rates-website-server/exchange-rates-website-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/chana/algo/exchange-rates-website-API/exchange-rates-website-API.csproj",
+        "projectUniqueName": "/home/chana/Exchange-Rates-Website/exchange-rates-website-server/exchange-rates-website-API.csproj",
         "projectName": "exchange-rates-website-API",
-        "projectPath": "/home/chana/algo/exchange-rates-website-API/exchange-rates-website-API.csproj",
+        "projectPath": "/home/chana/Exchange-Rates-Website/exchange-rates-website-server/exchange-rates-website-API.csproj",
         "packagesPath": "/home/chana/.nuget/packages/",
-        "outputPath": "/home/chana/algo/exchange-rates-website-API/obj/",
+        "outputPath": "/home/chana/Exchange-Rates-Website/exchange-rates-website-server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/chana/.nuget/NuGet/NuGet.Config"

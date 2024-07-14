@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0TogMgrcfPgyrz6t6rFPoLD1fm/LGKEUC0DbAG7n8b+sv5toGPROUlM96RuE7a+1Wn30m30HRJShETyDCUUSpQ==",
+  "dgSpecHash": "ZQV1kH3KXULDQ2A8aPxgp/oBW1z+outF01ycajnlUsEn7g2hi2pS2x8bdOKMvZU/UvwdL/9TvTKqh1x0Ixwclw==",
   "success": true,
-  "projectFilePath": "/home/chana/algo/exchange-rates-website-API/exchange-rates-website-API.csproj",
+  "projectFilePath": "/home/chana/Exchange-Rates-Website/exchange-rates-website-server/exchange-rates-website-API.csproj",
   "expectedPackageFiles": [
     "/home/chana/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "/home/chana/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
