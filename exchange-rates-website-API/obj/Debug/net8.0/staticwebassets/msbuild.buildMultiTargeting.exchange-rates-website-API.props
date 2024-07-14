@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/exchange-rates-website-API.props" />
+</Project>

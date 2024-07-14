@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+seNS38utYA5wsyjeht2gYLwAqCV3kALSkLKtVMFBcs=",
+  "Source": "exchange-rates-website-API",
+  "BasePath": "_content/exchange-rates-website-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
